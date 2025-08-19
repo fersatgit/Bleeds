@@ -4,7 +4,7 @@
 <h2>Системные требования</h2>
 <table  style="font-size:100%"><tr><td>Операционная система:<td>Windows 7 или выше
 <tr><td>Программное обеспечение:<td>Corel Draw версии 18 или выше
-<tr><td>Процессор:<td>с поддержкой SSE4.1.</table>
+<tr><td>Процессор:<td>с поддержкой SSE4.1</table>
 <h2>Установка</h2>
 <b>x86:</b>  Скопировать файл <a href=https://github.com/fersatgit/Bleeds/releases/download/v1.0/Bleedsx86.cpg>Bleeds86.cpg</a> в каталог "Programs\Addons"<p>
 <b>x64:</b>  Скопировать файл <a href=https://github.com/fersatgit/Bleeds/releases/download/v1.0/Bleedsx64.cpg>Bleedsx64.cpg</a> в каталог "Programs64\Addons"
@@ -25,4 +25,5 @@
 <li><a href=https://github.com/elvin-nsk/Contour>Contour</a> - удобный макрос для автотрассировки контура. Может работать с непрозрачными растрами.
 
 <li><a href=https://forum.rudtp.ru/threads/vylety-dlya-konturnoi-rezki.82555/post-1434108>Create bleed</a> - программа и для массового создания припусков. На вход принимает файлы png. Многопоточная, есть версия для linux.
+
 
